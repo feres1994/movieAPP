@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.header {
+  border: 2px solid red;
+}
+.card {
+  margin: 4px 4px 4px 0px;
+  border: 2px solid red;
+}
+.movie-img {
+  width: 200px;
+  height: 200px;
+}
+.movie-list {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
